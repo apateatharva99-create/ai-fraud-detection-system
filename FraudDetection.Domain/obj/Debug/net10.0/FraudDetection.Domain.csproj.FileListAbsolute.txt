@@ -1,0 +1,11 @@
+C:\Users\atharva shankar apat\AI-Fraud-Detection-System\FraudDetection.Domain\bin\Debug\net10.0\FraudDetection.Domain.deps.json
+c:\Users\atharva shankar apat\AI-Fraud-Detection-System\FraudDetection.Domain\bin\Debug\net10.0\FraudDetection.Domain.dll
+c:\Users\atharva shankar apat\AI-Fraud-Detection-System\FraudDetection.Domain\bin\Debug\net10.0\FraudDetection.Domain.pdb
+c:\Users\atharva shankar apat\AI-Fraud-Detection-System\FraudDetection.Domain\obj\Debug\net10.0\FraudDetection.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\atharva shankar apat\AI-Fraud-Detection-System\FraudDetection.Domain\obj\Debug\net10.0\FraudDetection.Domain.AssemblyInfoInputs.cache
+c:\Users\atharva shankar apat\AI-Fraud-Detection-System\FraudDetection.Domain\obj\Debug\net10.0\FraudDetection.Domain.AssemblyInfo.cs
+c:\Users\atharva shankar apat\AI-Fraud-Detection-System\FraudDetection.Domain\obj\Debug\net10.0\FraudDetection.Domain.csproj.CoreCompileInputs.cache
+c:\Users\atharva shankar apat\AI-Fraud-Detection-System\FraudDetection.Domain\obj\Debug\net10.0\FraudDetection.Domain.dll
+c:\Users\atharva shankar apat\AI-Fraud-Detection-System\FraudDetection.Domain\obj\Debug\net10.0\refint\FraudDetection.Domain.dll
+c:\Users\atharva shankar apat\AI-Fraud-Detection-System\FraudDetection.Domain\obj\Debug\net10.0\FraudDetection.Domain.pdb
+C:\Users\atharva shankar apat\AI-Fraud-Detection-System\FraudDetection.Domain\obj\Debug\net10.0\ref\FraudDetection.Domain.dll

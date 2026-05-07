@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="FraudDetection.API/FraudDetection.API.csproj"/>
+  <Project Path="FraudDetection.Application/FraudDetection.Application.csproj"/>
+  <Project Path="FraudDetection.Domain/FraudDetection.Domain.csproj"/>
+  <Project Path="FraudDetection.Infrastructure/FraudDetection.Infrastructure.csproj"/>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml"/>
+  </Folder>
+</Solution>
